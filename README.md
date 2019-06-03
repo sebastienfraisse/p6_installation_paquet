@@ -1,2 +1,2 @@
 # p6_installation_paquet
-debian_installation_paquet_transfer_fichier
+debian_installation_paquet_transfert_fichier
