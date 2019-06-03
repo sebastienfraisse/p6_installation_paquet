@@ -5,7 +5,7 @@
 
 #l'argument 1 pour sys.argv, renseigné au moment du lancement du script, défini le paquet à installer"
 
-import time, paramiko, os, sys , socket,re, logging
+import time, paramiko, os, sys, socket, re, logging
 from datetime import datetime
 from donnees import *
 
