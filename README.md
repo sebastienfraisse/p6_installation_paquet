@@ -13,11 +13,11 @@ Pour utiliser ce script, il faut tout d'abord installer python3-paramiko, de plu
  
 ## Configuration
 Plusieurs données sont à modifier 
-* Dans le fichier donnees.py
- ** les différents emplacement et le nom du document à transférer
-  ** les identifiants de session
-  ** le port ouvert pour ssh (par defaut le 22)
-  ** les ip des postes à modifier
+ ### Dans le fichier donnees.py
+ * les différents emplacement et le nom du document à transférer
+ * les identifiants de session
+ * le port ouvert pour ssh (par defaut le 22)
+ * les ip des postes à modifier
  
  ### Dans p6_installation_paquet
   * Warning disk, qui correspond, en G, à l'espace disque nécessaire pour effectuer les installations
