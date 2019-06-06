@@ -50,7 +50,7 @@ for ip in ips :
 	try:
 		ssh_client = paramiko.SSHClient ()
 		ssh_client.set_missing_host_key_policy (paramiko.AutoAddPolicy ()) 
-		ssh_client.connect (hostname = ip, port = port, username = login, password = mdp)
+		ssh_client.connect (hostname = ip, port = int(port), username = login, password = mdp)
 		
 	except paramiko.AuthenticationException:
 		logging.error ( "Authentication échouée, merci de vérifier les identifiants")
