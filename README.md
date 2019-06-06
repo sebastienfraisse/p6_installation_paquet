@@ -11,7 +11,7 @@ Il permet, sur une serie de postes distant sous debian:
 ## Prérequis
 Pour utiliser ce script, il faut tout d'abord installer python3-paramiko, de plus, il faut que la session administrateur sur les postes distant soit identique sur tous les postes.
  
-## CONFIGURATION
+## Configuration
 Plusieurs données sont à modifier 
  ### Dans le fichier donnees.py
   * les différents emplacement et le nom du document à transférer
@@ -26,7 +26,7 @@ Plusieurs données sont à modifier
  ### Au lancement du sript
   * Il faut renseigner en argument le paquet à installer (expl : python3 p6_modif_prog nano)
 
-## UTILISATION
+## Utilisation
 Lors du lancement, une serie d'information sera affichée.
   * la machine cible
   * Si la connexion est établie
