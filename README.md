@@ -1,5 +1,6 @@
 # p6_installation_paquet
-Ce script permet, sur une serie de postes distant sous debian:
+Ce script est créé dans le cadre d'une formation openclassrooms administrateur infrastructure et cloud
+Il permet, sur une serie de postes distant sous debian:
   *D'établir une connexion ssh avec mot de passe.
   *De vérifier le système d'exploitation.
   *De vérifier l'espace disque disponible.
