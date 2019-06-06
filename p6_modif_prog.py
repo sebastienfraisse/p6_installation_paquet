@@ -96,7 +96,7 @@ for ip in ips :
 		output = output[3]
 
 # mise en forme des données disque et comparaison	
-		if 'G' or 'T' in output :
+		if 'G' in output or 'T' in output :
 			if 'T' in output :
 				fact = 1000
 			else : 
