@@ -9,7 +9,7 @@ Il permet, sur une serie de postes distant sous debian:
   *D'installer un paquet.
 
 ## Prérequis
-Pour utiliser ce script, il faut tout d'abord installer python3-paramikode et que la session administrateur soit identique sur tous les postes distant.
+Pour utiliser ce script, il faut tout d'abord installer python3-paramiko et que la session administrateur soit identique sur tous les postes distant.
  
 ## Configuration
 Plusieurs données sont à modifier 
