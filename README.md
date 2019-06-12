@@ -36,3 +36,8 @@ Lors du lancement, une serie d'information sera affichée.
   * si l'installation est effectuée
   * la fin du script
 
+## Contribution
+Vous pouvez contribuer comme vous le souhaitez (ajouter des fonctionnalités, optimiser, traduire, etc ...). Vous pouvez également aider en signalant des bogues ou en suggérant des améliorations.
+
+## Contact
+Pour plus d'informations ou d'aide sur l'utilisation de p6_installation_paquet, n'hésitez pas à me contacter à pseuso[at]live.fr.
